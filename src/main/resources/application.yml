@@ -8,11 +8,11 @@ spring.security.oauth2.client:
 
   registration:
     google:
-      client-id: 204915941072-fckl8bu6ouj5lbq3q35ebb8k8hltns50.apps.googleusercontent.com
-      client-secret: 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
+      client-id: 204915941072-fckl8bu6ouj5lbq3q35ebb8k8hltns50.emo.apps.googleusercontent.com
+      client-secret: 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Emo
     github:
-      client-id: Ov23liygiTP5jc2RILOV
-      client-secret: a871ea7c4461969a47d3db1c4dfef499aa384ddc
+      client-id: Ov23liygiTP5jc2RILOVEmo
+      client-secret: a871ea7c4461969a47d3db1c4dfef499aa384ddceMo
     twitter:
       client-id: asdlfjasldf
       client-secret: asldfjalsdfj
