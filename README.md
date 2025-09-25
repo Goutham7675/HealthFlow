@@ -1,4 +1,5 @@
 **Scalable Backend System**
+
 Architected a highly scalable backend system using Spring Boot and RESTful APIs, capable of handling 1,000+ daily transactions while maintaining low latency and high reliability, ensuring seamless service for end-users.
 
 Optimized database operations by designing efficient schemas, creating indexes, and refining complex queries in MySQL/PostgreSQL, resulting in a 40% improvement in database performance for large datasets.
